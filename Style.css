@@ -1,0 +1,17 @@
+body{
+	background-image: url("good.jpg");
+}
+
+div h1{background-color: white;
+	padding: 80px;
+	color: blue;}
+div ul{display: inline;}
+
+ul li{display: inline;}
+
+h2{color: white;
+text-align: left;
+font-size: 30px;}
+
+p{color: white;
+font-size: 20px;}
