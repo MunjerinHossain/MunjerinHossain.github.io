@@ -5,6 +5,9 @@ body{
 div h1{background-color: white;
 	padding: 80px;
 	color: blue;}
+div h4{background-color: white;
+	padding: 80px;
+	color: black;}
 div ul{display: inline;}
 
 ul li{display: inline;}
