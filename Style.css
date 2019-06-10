@@ -12,7 +12,8 @@ div ul{display: inline;
 	text-align: center;
 }
 
-ul li{display: inline;}
+ul li{display: inline;
+text-align: center;}
 
 h2{color: white;
 text-align: left;
