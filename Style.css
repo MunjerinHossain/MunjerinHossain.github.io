@@ -6,7 +6,10 @@ div h1{background-color: white;
 	padding: 80px;
 	color: blue;}
 
-div ul{display: inline;}
+div ul{display: inline;
+	background-color: grey;
+	padding: 50px;
+}
 
 ul li{display: inline;}
 
