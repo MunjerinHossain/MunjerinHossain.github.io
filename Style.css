@@ -8,7 +8,8 @@ div h1{background-color: white;
 
 div ul{display: inline;
 	background-color: #808080;
-	padding: 50px;
+	padding: 40px;
+	text-align: center;
 }
 
 ul li{display: inline;}
