@@ -2,18 +2,17 @@ body{
 	background-image: url("good.jpg");
 }
 
-div h1{background-color: white;
-	padding: 80px;
+div h1{background-color: #daf8e3;
+	padding: 50px;
 	color: blue;}
 
-div ul{display: inline;
-	background-color: #808080;
-	padding: 40px;
-	align: center;
+div ul{
+	background-color: #eb654d;
+	padding: 5px;
+	text-align: center;
 }
 
-ul li{display: inline;
-align: center;}
+
 
 h2{color: white;
 text-align: center;
@@ -21,3 +20,4 @@ font-size: 30px;}
 
 p{color: white;
 font-size: 20px;}
+
