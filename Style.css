@@ -12,9 +12,11 @@ div ul{
 
 
 
-h2{color: blue;
+div h2{color: blue;
 text-align: center;
-font-size: 30px;}
+font-size: 30px;
+background-color: #daf8e3;
+padding: 50px;}
 
 p{color: #000000;
 font-size: 20px;}
